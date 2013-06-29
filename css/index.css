@@ -1,0 +1,7 @@
+.paper {  
+    width: 100%;  
+    min-height: 500px;
+    margin: 10px auto;
+    outline: 1px solid #aaa;
+    background-color: whitesmoke;
+} 
